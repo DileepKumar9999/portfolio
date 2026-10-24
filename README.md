@@ -1,4 +1,4 @@
-# Rasid Ekbal — Portfolio
+# Dileep Kumar — Portfolio
 
 A modern, high-performance developer portfolio built to showcase full-stack, mobile, and AI systems engineering. Designed with a premium aesthetic featuring subtle glassmorphism, dynamic animations, and a sleek, tailored dark-navbar-on-light-body theme.
 
